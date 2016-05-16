@@ -92,6 +92,8 @@ class Simpletron():
         
         try:
             operations[self.operationCode](self.operand)
+        except SystemExit:
+            raise
         except:
             print('***       INVALID OPERATION!       ***')
             print('*** EXECUTION STOPPED BEFORE HALT! ***')
@@ -134,7 +136,14 @@ class Simpletron():
                 break
             self.memory[i]=int(word)
             if i == 99:
-                print('MEMORY FULL!')
+                print('*** MEMORY FULL! ***')
+    
+    
+    def run(self):
+        while True:
+            self.fetch()
+            self.decode()
+            self.execute()        
 
 
 def main():
@@ -149,10 +158,7 @@ def main():
     simpletron.load()
     print('\n*** Program loading completed ***')
     print('*** Program execution begins  ***\n')
-    while True:
-        simpletron.fetch()
-        simpletron.decode()
-        simpletron.execute()
+    simpletron.run()
 
 if __name__=='__main__':
     main()
