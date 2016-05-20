@@ -1,0 +1,44 @@
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+00 ? -99990
+Filename to be loaded: aplusb.sml
+*** Program loaded from file***
+
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+INPUT: 1000
+INPUT: 0337
+1337
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            +1337
+instructionCounter     07
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1007 +1008 +2007 +3008 +2109 +1109 +4300 +1000 +0337 +1337 
+10 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 

@@ -125,7 +125,7 @@ class Simpletron():
                 try:
                     word=input('{:0>2d}'.format(i)+' ? ')
                     if not ((len(word) == 4) or ((len(word) == 5) and (word[0] in '+-'))
-                    or (word == '-99999')):
+                    or (word == '-99999') or (word == '-99990')):
                         raise RuntimeError('invalid word')
                     int(word)
                 except:
@@ -134,9 +134,21 @@ class Simpletron():
             
             if word=='-99999':
                 break
+            if word=='-99990':
+                self.loadFile()
+                break
             self.memory[i]=int(word)
             if i == 99:
                 print('*** MEMORY FULL! ***')
+    
+    
+    def loadFile(self):
+        fname=input('Filename to be loaded: ')
+        file = open(fname,'r')
+        strings=file.readlines()
+        for i,string in enumerate(strings):
+            self.memory[i]=int(string)
+        print('*** Program loaded from file***\n')
     
     
     def run(self):
@@ -152,6 +164,8 @@ def main():
     print('*** (or data word) at a time. I will type the ***')
     print('*** location number and a question mark (?).  ***')
     print('*** You then type the word for that location. ***')
+    print('*** To load program from file, type sentinel  ***')
+    print('*** value -99990. Then specify the filename.  ***')
     print('*** Type the sentinel -99999 to stop entering ***')
     print('*** your program. ***\n')
     simpletron=Simpletron()
