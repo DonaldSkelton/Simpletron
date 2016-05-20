@@ -149,7 +149,7 @@ class Simpletron():
         file.close()
         for i,string in enumerate(strings):
             self.memory[i]=int(string)
-        print('*** Program loaded from file***\n')
+        print('*** Program loaded from file ***')
     
     
     def run(self):
