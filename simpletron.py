@@ -146,6 +146,7 @@ class Simpletron():
         fname=input('Filename to be loaded: ')
         file = open(fname,'r')
         strings=file.readlines()
+        file.close()
         for i,string in enumerate(strings):
             self.memory[i]=int(string)
         print('*** Program loaded from file***\n')
