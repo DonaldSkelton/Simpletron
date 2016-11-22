@@ -1,0 +1,631 @@
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+1337
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            +1337
+instructionCounter     07
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1007 +1008 +2007 +3008 +2109 +1109 +4300 +1000 +0337 +1337 
+10 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+1337
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            +1337
+instructionCounter     07
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +1098 +2099 +3098 +2197 +1197 +4300 +0000 +0000 +0000 
+10 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +1337 +0337 +1000 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+1337
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            +1337
+instructionCounter     07
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +1098 +2099 +3098 +2197 +1197 +4300 +0000 +0000 +0000 
+10 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +1337 +0337 +1000 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+100
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            +0090
+instructionCounter     10
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +1098 +2098 +3199 +4108 +4208 +1198 +4009 +1199 +4300 
+10 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0100 +0010 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+100
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            -0050
+instructionCounter     10
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +1098 +2098 +3199 +4108 +4208 +1198 +4009 +1199 +4300 
+10 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0050 +0100 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+1000
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            +0000
+instructionCounter     10
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +1098 +2098 +3199 +4108 +4208 +1198 +4009 +1199 +4300 
+10 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +1000 +1000 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+1
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            -0002
+instructionCounter     10
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +1098 +2098 +3199 +4108 +4208 +1198 +4009 +1199 +4300 
+10 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 -0001 +0001 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+4
+16
+9
+25
+99980001
+99980001
+*** Please enter a valid 4 digit word ***
+99980001
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            +0000
+instructionCounter     10
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +2099 +3198 +4209 +2099 +3399 +2197 +1197 +4000 +4300 
+10 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +99980001 +0000 +0000 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+4
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            +0000
+instructionCounter     10
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +2099 +3198 +4209 +2099 +3399 +2197 +1197 +4000 +4300 
+10 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0004 -9999 -9999 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+*** Please enter a valid 4 digit word ***
+15
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            +0000
+instructionCounter     13
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +2098 +3199 +4211 +2098 +3097 +2198 +2096 +3098 +2196 
+10 +4001 +1196 +4300 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0000 +0000 +0000 +0015 +0001 +0005 +0005 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+28
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            +0028
+instructionCounter     15
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +1098 +1097 +1096 +2099 +3098 +2194 +2097 +3096 +2193 
+10 +2096 +3393 +2195 +1195 +4300 +0000 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0007 +0003 +0028 +0004 +0003 +0002 +0001 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+*** Please enter a valid 4 digit word ***
+21
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            +0021
+instructionCounter     15
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +1098 +1097 +1096 +2099 +3098 +2194 +2097 +3096 +2193 
+10 +2094 +3393 +2195 +1195 +4300 +0000 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0007 +0003 +0021 +0004 +0003 +0002 +0001 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+21
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            +0021
+instructionCounter     15
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +1098 +1097 +1096 +2099 +3098 +2194 +2097 +3096 +2193 
+10 +2094 +3393 +2195 +1195 +4300 +0000 +0000 +0000 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0007 +0003 +0021 +0004 +0003 +0002 +0001 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+***  ERROR: CANNOT DIVIDE BY ZERO  ***
+*** EXECUTION STOPPED BEFORE HALT! ***
+
+REGISTERS:
+accumulator            +0004
+instructionCounter     09
+instructionRegister    +3293
+operationCode          32
+operand                93
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +1098 +1097 +1096 +2099 +3098 +2194 +2096 +3293 +2192 
+10 +2097 +3092 +2191 +2094 +3391 +2195 +1195 +4300 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0000 +0003 +0000 +0004 +0003 +0002 +0001 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+***  ERROR: CANNOT DIVIDE BY ZERO  ***
+*** EXECUTION STOPPED BEFORE HALT! ***
+
+REGISTERS:
+accumulator            +0004
+instructionCounter     09
+instructionRegister    +3293
+operationCode          32
+operand                93
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +1098 +1097 +1096 +2099 +3098 +2194 +2096 +3293 +2192 
+10 +2097 +3092 +2191 +2094 +3391 +2195 +1195 +4300 +0000 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0000 +0000 +0000 +0003 +0000 +0004 +0003 +0002 +0001 
+*** Welcom to Simpletron! ***
+
+*** Please enter your program one instruction ***
+*** (or data word) at a time. I will type the ***
+*** location number and a question mark (?).  ***
+*** You then type the word for that location. ***
+*** To load program from file, type sentinel  ***
+*** value -99990. Then specify the filename.  ***
+*** Type the sentinel -99999 to stop entering ***
+*** your program. ***
+
+*** Program loaded from file ***
+
+*** Program loading completed ***
+*** Program execution begins  ***
+
+9
+
+*** Simpletron exucution terminated ***
+
+REGISTERS:
+accumulator            +0009
+instructionCounter     19
+instructionRegister    +4300
+operationCode          43
+operand                00
+
+MEMORY:
+       0     1     2     3     4     5     6     7     8     9
+ 0 +1099 +1098 +1097 +1096 +1095 +2099 +3098 +2193 +2096 +3295 
+10 +2192 +2097 +3092 +2191 +2093 +3391 +2194 +1194 +4300 +0000 
+20 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+30 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+40 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+50 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+60 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+70 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+80 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 +0000 
+90 +0000 +0003 +0000 +0003 +0009 +0005 +0004 +0003 +0002 +0001 

@@ -1,0 +1,24 @@
+3.5.2 (default, Nov  7 2016, 11:31:36) 
+[GCC 6.2.1 20160830]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate simple_compiler.py]
+l = lexer('sum.simple')
+t = l.tokenize()
+for line in t:
+    for token in line:
+        print(token.type, token.value, end=',')
+    print()
+
+int 10,word rem,word determine,word and,word print,word the,word sum,word of,word two,word integers,
+int 15,word rem,
+int 20,word rem,word input,word the,word two,word integers,
+int 30,word input,var a,
+int 40,word input,var b,
+int 45,word rem,
+int 50,word rem,word add,word integers,word and,word store,word result,word in,var c,
+int 60,word let,var c,operator =,var a,operator +,var b,
+int 65,word rem,
+int 70,word rem,word print,word the,word result,
+int 80,word print,var c,
+int 90,word rem,word terminate,word program,word execution,
+int 99,word end,

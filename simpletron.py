@@ -1,6 +1,15 @@
 from copy import *
 
 
+oldprint = print
+def printandlog(f):
+    def wrapper(*args, **kwargs):
+        with open('SimpletronLog.txt', 'a') as ofile:
+            oldprint(*args, file= ofile)
+        oldprint(*args, **kwargs)
+    return wrapper
+print = printandlog(oldprint)
+
 class Simpletron():
     def __init__(self):
         self.accumulator=0
@@ -89,7 +98,7 @@ class Simpletron():
                     41:BRANCHNEG,
                     42:BRANCHZERO,
                     43:HALT}
-        
+
         try:
             operations[self.operationCode](self.operand)
         except SystemExit:
@@ -99,8 +108,8 @@ class Simpletron():
             print('*** EXECUTION STOPPED BEFORE HALT! ***')
             self.dump()
             exit(1)
-    
-    
+
+
     def dump(self):
         print('\nREGISTERS:')
         print('{0:<23s}{1:0=+5d}'.format('accumulator',self.accumulator))
@@ -115,7 +124,7 @@ class Simpletron():
             s=('{:>2d}'.format(row))+' '
             for col in range(10):
                 s+=('{:0=+5d}'.format(self.memory[row+col])+' ')
-            print(s)        
+            print(s)
 
 
     def load(self):
@@ -131,7 +140,7 @@ class Simpletron():
                 except:
                     word=''
                     print('*** Please enter a valid 4 digit word ***')
-            
+
             if word=='-99999':
                 break
             if word=='-99990':
@@ -140,8 +149,8 @@ class Simpletron():
             self.memory[i]=int(word)
             if i == 99:
                 print('*** MEMORY FULL! ***')
-    
-    
+
+
     def loadFile(self):
         fname=input('Filename to be loaded: ')
         file = open(fname,'r')
@@ -150,13 +159,13 @@ class Simpletron():
         for i,string in enumerate(strings):
             self.memory[i]=int(string)
         print('*** Program loaded from file ***')
-    
-    
+
+
     def run(self):
         while True:
             self.fetch()
             self.decode()
-            self.execute()        
+            self.execute()
 
 
 def main():

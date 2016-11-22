@@ -1,0 +1,9 @@
+10 rem evaluate (a + b) * (c + d / e) and print result
+15 input a
+20 input b
+25 input c
+30 input d
+32 input e
+35 let f = (a + b) * (c+d/e)
+40 print f
+45 end
